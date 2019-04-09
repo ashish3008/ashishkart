@@ -98,7 +98,7 @@
 				<p>But when it comes to scaling and complex configurations, of
 					course chef and puppet scores. As long as one is having 3 digits in
 					the number of servers, ansible looks to be ok and beyond that one
-					has to.</p>
+					has to build.</p>
 			</div>
 			<div id="tabs-4">
 				<p>Motorola</p>
